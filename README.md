@@ -7,6 +7,7 @@
 
 ## Download the script
 * Download link: https://github.com/JyunWei-Su/svg2emf
+* Un-zip before use
 * Password: `grinningdonkey`
 
 ## Script usage
